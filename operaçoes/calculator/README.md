@@ -9,8 +9,9 @@ Este é um programa simples de calculadora que permite ao usuário inserir dois 
 Antes de usar o programa, certifique-se de ter um compilador C instalado.
 # **Executar**
 
-**1**Vá no cmd e navegue até a pasta do codigo
-**2**Escreva calculator.exe
+**1** Vá no cmd e navegue até a pasta do codigo 
+
+**2** Escreva calculator.exe
 
 # **Exemplo**
 Choose a number:  5
