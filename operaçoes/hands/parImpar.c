@@ -10,7 +10,7 @@ int main() {
     int bob;
     int result;
 
-    printf("0 para alice escolher par e 1 para bob escolher par\n");
+    printf("\n0 para alice escolher par e 1 para bob escolher par:  ");
 
     scanf("%d", &P);
 
@@ -38,7 +38,9 @@ int main() {
                 printf("\nBob wins");
                 printf("\n*************");
             } else {
-
+                printf("\n*************");
+                printf("\nAlice wins");
+                printf("\n*************");
             }
         } else {
             printf("\n********************");

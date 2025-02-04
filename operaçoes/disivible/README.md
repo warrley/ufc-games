@@ -1,4 +1,4 @@
-# 🖩 Calculadora em C  
+# 🖩 Verificação de divisibilidade em C  
 
 Este é um programa simples para verificação de divisibilidade um número por outro (**+, **-**, **/**, **\***).  
 
@@ -11,7 +11,7 @@ Antes de usar o programa, certifique-se de ter um compilador C instalado.
 
 **1** Vá no cmd e navegue até a pasta do codigo 
 
-**2** Escreva calculator.exe
+**2** Escreva divisible.exe
 
 # **Exemplo**
 Enter a number:  15

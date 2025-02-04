@@ -1,4 +1,4 @@
-# 🖩 Calculadora em C  
+# 🖩 Comparador em C  
 
 Este é um programa simples de comparação entre números.  
 
