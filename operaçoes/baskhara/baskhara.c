@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
-// https://github.com/qxcodefup/arcade/blob/master/base/semana/Readme.md
+// https://github.com/qxcodefup/arcade/blob/master/base/bhaskara/Readme.md
 
 int main() {
     double a, b, c;
