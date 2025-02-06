@@ -12,9 +12,14 @@ int main() {
     printf("\nHow many students?:  ");
     scanf("%lf", &students);
 
+    if(capacity < 2 || capacity > 100 || students < 1 || students > 1000) {
+        printf("Values outside the permitted limits\n");
+        return 1;
+    }
+
     travels = ceil((students)/(capacity - 1));
 
-    printf("\nNeed %0.lf travels", travels);
+    printf("\nNeed %0.lf trips", travels);
 
     return 0;
 }
