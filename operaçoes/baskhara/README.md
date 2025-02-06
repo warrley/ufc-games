@@ -1,4 +1,4 @@
-# 🖩 Comparador em C  
+# 🖩 Baskhara em C  
 
 Este é um programa simples para calcular a raíz de uma função do 2a grau.  
 
