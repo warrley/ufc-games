@@ -11,11 +11,15 @@ Antes de usar o programa, certifique-se de ter um compilador C instalado.
 
 **1** Vá no cmd e navegue até a pasta do codigo 
 
-**2** Escreva fruits
-.exe
+**2** Escreva fruits.exe
 
 # **Exemplo**
-What is the total capacity?:  9
+What the capacity of basket?:  10
 
-How many students?:  5
-Need 1 travels
+How many bananas?:  21
+
+How many apples?  5
+
+How many lemons?  12
+
+It takes 4 minutes
