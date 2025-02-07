@@ -1,27 +1,28 @@
 #include <stdio.h>
 #include <math.h>
 
-// https://github.com/qxcodefup/arcade/blob/master/base/loop_i/Readme.md#contexto
+//https://github.com/qxcodefup/arcade/blob/master/base/loop_iv/Readme.md
 
 int main() {
     int num1, num2;
 
-    printf("\nEnter the inferior limit:  ");
+    printf("\nEnter the first limit:  ");
     scanf("%d", &num1);
 
-    printf("\nEnter the superior limit:  ");
+    printf("\nEnter the second limit:  ");
     scanf("%d", &num2);
 
-    if(num1 > num2) {
-        printf("\nEnter the valid values");
-        return 1;
-    };
-
-    printf("[");
-    for(int i = num1; i < num2; i++) {
-        printf(" %d ", i);
+    if (num1 < num2) {
+        for (int i = num1; i < num2; i++) {
+            printf("%d ", i);
+        }
+    } 
+    // Se num1 for mnum1ior que num2, decrementnum1
+    else {
+        for (int i = num1; i > num2; i--) {
+            printf("%d ", i);
+        }
     }
-    printf("]");
 
     return 0;
 }

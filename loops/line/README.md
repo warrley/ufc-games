@@ -1,6 +1,6 @@
 # 🖩 Intervalo em C  
 
-Este é um programa para mostrar todos os numeros em determinado intervalo;
+Este é um programa para mostrar todos os numeros em determinado intervalo tanto crescente quanto decrescente;
 
 ---
 
@@ -14,9 +14,9 @@ Antes de usar o programa, certifique-se de ter um compilador C instalado.
 **2** Escreva interval.exe
 
 # **Exemplo**
-Enter the inferior limit:  3
+Enter the first limit:  3
 
-Enter the superior limit:  11
+Enter the second limit:  11
 3
 4
 5
