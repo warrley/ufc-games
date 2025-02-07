@@ -13,17 +13,13 @@ Antes de usar o programa, certifique-se de ter um compilador C instalado.
 
 **1** Vá no cmd e navegue até a pasta do codigo 
 
-**2** Escreva fruits.exe
+**2** Escreva plane.exe
 
 # **Exemplo**
-Enter the board size: 10
+How many vertical positions are there?:  5
 
-Enter the x initial: 4
+What the rocket position:  3
 
-Enter the y initial: 5
+What the current plane position:  4
 
-Enter the snake direction (U = Up), (D = Down), (L = Left), (R = Right): U
-
-Enter the distraction time: 1
-
-The final position is (4,4)
+You need change position 4 times

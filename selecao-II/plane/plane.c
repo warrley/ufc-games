@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
-// https://github.com/qxcodefup/arcade/blob/master/base/cobra/Readme.md
+// https://github.com/qxcodefup/arcade/blob/master/base/game10/Readme.md
 
 int main() {
     int position, disc, plane, need;
