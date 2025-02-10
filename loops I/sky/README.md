@@ -1,4 +1,4 @@
-# 🖩 Soma de numeros mutiplos de 2 e 3.
+# 🖩 Amarelinha.
 
 Este é um programa para saber onde está a pedra.
 

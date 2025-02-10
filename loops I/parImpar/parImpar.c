@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
-// https://github.com/qxcodefup/arcade/blob/master/base/ceu/Readme.md
+// https://github.com/qxcodefup/arcade/blob/master/base/esconde/Readme.md
 int main() {
     int num1;
 
