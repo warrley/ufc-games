@@ -1,6 +1,6 @@
-# 🖩 Amarelinha 2.0.
+# 🖩 Contador -> <- .
 
-Este é um programa para saber onde está a pedra e qual pé está no momento.
+Este é um contador de dois numeros, em ordem crescente e decrescenter.
 
 ---
 
@@ -12,19 +12,11 @@ Antes de usar o programa, certifique-se de ter um compilador C instalado.
 
 **1** Vá no cmd e navegue até a pasta do codigo
 
-**2** Escreva sky2.exe
+**2** Escreva counT.exe
 
 # **Exemplo**
 
-Where is the stone? 5
+Enter the first number: 1
 
-What the first foot?(R = Rigth), (L = Left):r
-0L
-1R
-2L
-3R
-4L
-6R
-7L
-8R
-9L
+Enter the second number: 10
+[ 1 10 2 9 3 8 4 7 5 6 6 5 7 4 8 3 9 2 10 1]
