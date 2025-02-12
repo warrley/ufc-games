@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
-// https://github.com/qxcodefup/arcade/blob/master/base/vet_i/Readme.md
+// https://github.com/qxcodefup/arcade/blob/master/base/vet_ii/Readme.md
 
 int main() {
     int length;
