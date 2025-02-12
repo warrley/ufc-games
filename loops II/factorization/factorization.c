@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//https://github.com/qxcodefup/arcade/blob/master/base/fatores/Readme.md
+
 int main() {
     int fator = 2, num, count;
     printf("\nEnter a number: ");
