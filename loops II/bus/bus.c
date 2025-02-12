@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// https://github.com/qxcodefup/arcade/blob/master/base/concentra/Readme.md
+// https://github.com/qxcodefup/arcade/blob/master/base/lotado/Readme.md
 int main() {
     int capacity, people, change;
 
