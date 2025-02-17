@@ -1,6 +1,7 @@
 # 🖩 Fuga .
 
 Este é um jogo para saber se o fugitivo consegue escapar, ou o polical pega-o.
+https://github.com/qxcodefup/arcade/blob/master/base/fuga/Readme.md
 
 ---
 
