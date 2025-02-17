@@ -5,6 +5,7 @@ Se for divisivel por 3 = zig.
 Se for divisivel por 5 = zag.
 Se for divisivel por 3 e 5 = zigzag.
 Se não for divisivel por 3 ou 5 = numero original.
+https://github.com/qxcodefup/arcade/blob/master/base/zigzag/Readme.md
 
 ---
 
