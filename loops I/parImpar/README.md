@@ -1,6 +1,7 @@
 # 🖩 Pares e Impares.
 
 Este é um programa para contar até um numero pelos impares, e voltar com os pares.
+https://github.com/qxcodefup/arcade/blob/master/base/esconde/Readme.md
 
 ---
 
@@ -17,4 +18,13 @@ Antes de usar o programa, certifique-se de ter um compilador C instalado.
 # **Exemplo**
 
 until what number?: 9
-1 3 5 7 9 8 6 4 2 0
+1 
+3
+5
+7
+9
+8
+6
+4
+2
+0
