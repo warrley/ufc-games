@@ -2,6 +2,7 @@
 
 Este é um programa para saber quantas viagens são necessárias
 Em cada viagem tem que ir um monitor e o resto de alunos.
+https://github.com/qxcodefup/arcade/blob/master/base/teleferico/Readme.md
 
 ---
 
