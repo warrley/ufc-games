@@ -41,3 +41,17 @@
   - <a href="https://github.com/warrley/ufc-games/blob/main/loops%20II/frog"/> Sapinho no Poço
   - <a href="https://github.com/warrley/ufc-games/blob/main/loops%20II/factorization"/> Fatoração de um número
 - <a href="https://github.com/warrley/ufc-games/tree/main/vectors%20I"/> Vetores I
+  - <a href="https://github.com/warrley/ufc-games/tree/main/vectors%20I/array"/> Carregando um vetor em várias linhas
+  - <a href="https://github.com/warrley/ufc-games/tree/main/vectors%20I/arrayLine"/> Carregando um vetor na mesma linha
+  - <a href="https://github.com/warrley/ufc-games/tree/main/vectors%20I/array%5B%5D"/> Impressão formatada
+  - <a href="https://github.com/warrley/ufc-games/tree/main/vectors%20I/smaller"/> Busca do menor valor
+  - <a href="https://github.com/warrley/ufc-games/tree/main/vectors%20I/diet"/> Rubens comendo brolio
+  - <a href="https://github.com/warrley/ufc-games/tree/main/vectors%20I/farm"/> Chico Bento e Cebolinha
+  - <a href="https://github.com/warrley/ufc-games/tree/main/vectors%20I/flavor"/> Clenda adora chocolate
+  - <a href="https://github.com/warrley/ufc-games/tree/main/vectors%20I/flavor"/> Contar repetidos
+- <a href="https://github.com/warrley/ufc-games/tree/main/vectors%20II"/> Vetores II
+  - <a href="https://github.com/warrley/ufc-games/tree/main/vectors%20II/battle"/> Revolta em Portugal
+  - <a href="https://github.com/warrley/ufc-games/tree/main/vectors%20II/cardsFormatter"/> Transformando númeroem letras
+  - <a href="https://github.com/warrley/ufc-games/tree/main/vectors%20II/cardsFormatter"/> Invertendo vetor
+  - <a href="https://github.com/warrley/ufc-games/tree/main/vectors%20II/queueRU"/> Separar pares e impares
+  - <a href="https://github.com/warrley/ufc-games/tree/main/vectors%20II/moon"/> Pedra na lua
