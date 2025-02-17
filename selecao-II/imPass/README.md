@@ -1,6 +1,7 @@
-# 🖩 Jokenpo em C  
+# 🖩 Verificador em C
 
 Este programa é um simples programa para saber se você está aprovado.  
+https://github.com/qxcodefup/arcade/blob/master/base/final/Readme.md
 
 ---
 

@@ -1,6 +1,7 @@
-# 🖩 Comparador em C  
+# 🖩 Verificador em C  
 
 Este é um programa simples para saber se uma pessoa deve estar trabalhando ou não.  
+https://github.com/qxcodefup/arcade/blob/master/base/semana/Readme.md
 
 ---
 
