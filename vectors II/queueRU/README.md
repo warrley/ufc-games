@@ -1,6 +1,7 @@
 # 🖩 Fila do RU.
 
 Este é um programa para separar estudantes e servidores em uma fila.
+https://github.com/qxcodefup/arcade/blob/master/base/fila/Readme.md
 
 ---
 
