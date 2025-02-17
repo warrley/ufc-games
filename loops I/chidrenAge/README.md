@@ -1,6 +1,7 @@
 # 🖩 Soma de numeros mutiplos de 2 e 3.
 
 Este é um programa para saber qual a idade dos filhos.
+https://github.com/qxcodefup/arcade/blob/master/base/filhos/Readme.md
 
 ---
 
