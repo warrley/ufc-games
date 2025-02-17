@@ -1,6 +1,7 @@
 # 🖩 Cesta de Frutas em C  
 
-Este é um programa para saber quantos minutos são necessários para levar todas as frutas de um quintal;
+Este é um programa para saber quantos minutos são necessários para levar todas as frutas de um quintal.
+https://github.com/qxcodefup/arcade/blob/master/base/goiabas/Readme.md
 
 ---
 
