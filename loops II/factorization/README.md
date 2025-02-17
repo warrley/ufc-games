@@ -1,6 +1,7 @@
 # 🖩 Fatorização.
 
 Este é um programa para saber quais são os divisores de um número e quantas vezes.
+https://github.com/qxcodefup/arcade/blob/master/base/fatores/Readme.md
 
 ---
 
