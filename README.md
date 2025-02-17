@@ -24,4 +24,11 @@
   - <a href="https://github.com/warrley/ufc-games/tree/main/selecao-II/plane"/> Game 10 - Disco Voador
   - <a href="https://github.com/warrley/ufc-games/tree/main/selecao-II/employes"/> Calculando aumento
 - <a href="https://github.com/warrley/ufc-games/tree/main/selecao-I"/> Repetição I
-  - <a href="https://github.com/warrley/ufc-games/tree/main/selecao-I"/> 
+  - <a href="https://github.com/warrley/ufc-games/tree/main/training"/> Treino de Loop
+  - <a href="https://github.com/warrley/ufc-games/tree/main/line"/> Imprimindo em linha
+  - <a href="https://github.com/warrley/ufc-games/tree/main/loop1-3"/> Loop com continue e break
+  - <a href="https://github.com/warrley/ufc-games/tree/main/somaPar"/> Calculando soma
+  - <a href="https://github.com/warrley/ufc-games/tree/main/2e3"/> Sapatos 2 e 3
+  - <a href="https://github.com/warrley/ufc-games/tree/main/childrenAge"/> Filhos de Seu David
+  - <a href="https://github.com/warrley/ufc-games/tree/main/sky"/> Ingrid quer chegar no céu
+  - <a href="https://github.com/warrley/ufc-games/tree/main/parImpar"/> Diana no esconde-esconde
