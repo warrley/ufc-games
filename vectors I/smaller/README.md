@@ -1,6 +1,7 @@
 # 🖩 Array em uma linha com virgulas
 
 Este é um programa para saber qual é o menor valor em uma lista de 5 elementos.
+https://github.com/qxcodefup/arcade/blob/master/base/apertada/Readme.md
 
 ---
 
