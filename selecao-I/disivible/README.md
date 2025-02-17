@@ -1,6 +1,6 @@
 # 🖩 Verificação de divisibilidade em C  
 
-Este é um programa simples para verificação de divisibilidade um número por outro (**+, **-**, **/**, **\***).  
+Este é um programa simples para verificação de divisibilidade um número por outro.  
 
 ---
 
