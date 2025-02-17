@@ -1,6 +1,7 @@
 # 🖩 Diet.
 
 Este é um programa para saber a média de calorias consumidas.
+https://github.com/qxcodefup/arcade/blob/master/base/dieta/Readme.md
 
 ---
 
