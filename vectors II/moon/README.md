@@ -1,6 +1,7 @@
 # 🖩 Pedra na Lua.
 
 Este é um programa para saber que é o vencedor de uma competição de arremesso.
+https://github.com/qxcodefup/arcade/blob/master/base/pedra/Readme.md
 
 ---
 
