@@ -1,6 +1,7 @@
 # 🖩 Amarelinha.
 
 Este é um programa para saber onde está a pedra.
+https://github.com/qxcodefup/arcade/blob/master/base/ceu/Readme.md
 
 ---
 
