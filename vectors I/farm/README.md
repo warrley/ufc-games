@@ -1,6 +1,7 @@
 # 🖩 Quantas patas?
 
 Este é um programa para saber quem passa mais perto de acertar quantas patas há na fazenda.
+https://github.com/qxcodefup/arcade/blob/master/base/patas/Readme.md
 
 ---
 
