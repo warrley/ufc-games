@@ -1,6 +1,7 @@
 # 🖩 Soma de numeros pares.
 
 Este é um programa para somar todos os numeros pares de algum intervalo.
+https://github.com/qxcodefup/arcade/blob/master/base/pares/Readme.md
 
 ---
 
