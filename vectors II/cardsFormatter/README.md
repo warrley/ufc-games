@@ -1,6 +1,7 @@
 # 🖩 Batalha entre soldados e espiões.
 
 Este é um programa para saber quais cartas há na mão.
+https://github.com/qxcodefup/arcade/blob/master/base/cartas/Readme.md
 
 ---
 
