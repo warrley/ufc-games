@@ -1,5 +1,5 @@
 # ufc-games
-## aaa
+## Esse é um repositorio para guardar exercícios de FUP
 - <a href="https://github.com/warrley/ufc-games/tree/main/opera%C3%A7oes"/> Operações
   - <a href="https://github.com/warrley/ufc-games/tree/main/opera%C3%A7oes/areaTriangle"/> Pintando a casa
   - <a href="https://github.com/warrley/ufc-games/tree/main/opera%C3%A7oes/distanceShot"/> Distância ente dois pontos
