@@ -1,7 +1,7 @@
 # 🖩 Intervalo em C  
 
 Este é um programa para mostrar todos os numeros em determinado intervalo;
-
+https://github.com/qxcodefup/arcade/blob/master/base/loop_i/Readme.md#contexto
 ---
 
 ## 🔧 **Pré-requisitos**  
