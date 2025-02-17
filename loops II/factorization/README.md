@@ -17,5 +17,5 @@ Antes de usar o programa, certifique-se de ter um compilador C instalado.
 
 # **Exemplo**
 
-Enter a number: 8
+Enter a number: 8  
 2 is divisor 3 times
