@@ -1,6 +1,7 @@
 # 🖩 Array em uma linha com virgulas
 
 Este é um programa para imprimir os valores de um array de numeros entre colchetes e virgulas.
+https://github.com/qxcodefup/arcade/blob/master/base/vet_iii/Readme.md
 
 ---
 
