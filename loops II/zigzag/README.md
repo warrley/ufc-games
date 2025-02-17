@@ -25,14 +25,14 @@ Enter the start number: 25
 
 Enter the end number: 35
 
-zag
-26
-zig
-28
-29
-zigzag
-31
-32
-zig
-34
-zag
+zag 
+26 
+zig 
+28 
+29 
+zigzag  
+31 
+32 
+zig 
+34 
+zag 
