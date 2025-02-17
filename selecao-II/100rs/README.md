@@ -2,6 +2,7 @@
 
 Este é um programa simples para saber quem ganharia a nota de cem reais. 
 Fica com a nota quem tiver o maior pedaço, de uma nota de 100 com largura de 160 e altura de 70. 
+https://github.com/qxcodefup/arcade/blob/master/base/cortada/Readme.md
 
 ---
 
