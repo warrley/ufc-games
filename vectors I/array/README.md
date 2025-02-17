@@ -1,6 +1,7 @@
 # 🖩 Array
 
 Este é um programa para imprimir os valores de um array de numeros.
+https://github.com/qxcodefup/arcade/blob/master/base/vet_i/Readme.md
 
 ---
 
