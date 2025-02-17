@@ -26,6 +26,4 @@ How many?3
 
 How many?1
 
--------------
 SOLDIERS WINS
--------------
