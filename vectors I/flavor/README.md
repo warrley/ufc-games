@@ -1,6 +1,7 @@
 # 🖩 Sabores de dindin
 
 Este é um programa para saber qual foi o sabor mais vendido e qual o horário mais vago.
+https://github.com/qxcodefup/arcade/blob/master/base/dindin/Readme.md
 
 ---
 

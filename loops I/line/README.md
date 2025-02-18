@@ -1,6 +1,7 @@
 # 🖩 Intervalo em C  
 
 Este é um programa para mostrar todos os numeros em determinado intervalo tanto crescente quanto decrescente;
+https://github.com/qxcodefup/arcade/blob/master/base/loop_iv/Readme.md
 
 ---
 

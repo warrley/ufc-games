@@ -1,6 +1,7 @@
 # 🖩 Calculadora de aumento em C  
 
 Este é um programa para calcular o aumento salarial de funcinarios.
+https://github.com/qxcodefup/arcade/blob/master/base/salario/Readme.md 
 
 ---
 

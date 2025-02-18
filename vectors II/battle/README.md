@@ -1,7 +1,7 @@
 # 🖩 Batalha entre soldados e espiões.
 
 Este é um programa para saber qual exercito ganha.
-
+https://github.com/qxcodefup/arcade/blob/master/base/revolta/Readme.md
 ---
 
 ## 🔧 **Pré-requisitos**
@@ -26,6 +26,4 @@ How many?3
 
 How many?1
 
--------------
 SOLDIERS WINS
--------------

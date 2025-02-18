@@ -3,6 +3,7 @@
 Este é um jogo de uma cobrinha.
 Dê o tamanho do tauleiro, sua posição inicial, quanto tempo o jogo rodando, e descubra a posição final da cobrinha.
 O jogo tem tabuleiro infinito, quando chegar em algum limite, a cobrinha será levada para o limite oposto.
+https://github.com/qxcodefup/arcade/blob/master/base/cobra/Readme.md
 
 ---
 

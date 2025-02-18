@@ -1,6 +1,7 @@
 # 🖩 Baskhara em C  
 
-Este é um programa simples para calcular a raíz de uma função do 2a grau.  
+Este é um programa simples para calcular a raíz de uma função do 2a grau.
+https://github.com/qxcodefup/arcade/blob/master/base/bhaskara/Readme.md
 
 ---
 

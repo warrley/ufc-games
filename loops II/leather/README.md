@@ -1,6 +1,7 @@
 # 🖩 Amarelinha 2.0.
 
 Este é um programa para saber onde está a pedra e qual pé está no momento.
+https://github.com/qxcodefup/arcade/blob/master/base/colorido/Readme.md
 
 ---
 

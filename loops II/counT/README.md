@@ -1,6 +1,7 @@
 # 🖩 Contador -> <- .
 
 Este é um contador de dois numeros, em ordem crescente e decrescenter.
+https://github.com/qxcodefup/arcade/blob/master/base/concentra/Readme.md
 
 ---
 

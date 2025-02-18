@@ -1,6 +1,7 @@
-# 🖩 Comparador em C  
+# 🖩 Verificador em C  
 
-Este é um programa simples para saber se é possível formar um triângulo.  
+Este é um programa simples para saber se é possível formar um triângulo.
+https://github.com/qxcodefup/arcade/blob/master/base/semana/Readme.md
 
 ---
 

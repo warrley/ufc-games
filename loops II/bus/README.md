@@ -1,6 +1,7 @@
 # 🖩 Gerenciador de ônibus -> <- .
 
 Este é um programa para saber o momento de partida de um ônibus.
+https://github.com/qxcodefup/arcade/blob/master/base/lotado/Readme.md
 
 ---
 

@@ -1,6 +1,7 @@
 # 🖩 Intervalo Impares em C  
 
-Este é um programa para mostrar todos os numeros numeros em determinado intervalo.
+Este é um programa para mostrar todos os numeros numeros impares em determinado intervalo.
+https://github.com/qxcodefup/arcade/blob/master/base/loop_iv/Readme.md
 
 ---
 
@@ -16,5 +17,5 @@ Antes de usar o programa, certifique-se de ter um compilador C instalado.
 # **Exemplo**
 Enter the first limit:  10
 
-Enter the second limit:  16
+Enter the second limit:  16 
 11 13 15

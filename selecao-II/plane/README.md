@@ -3,6 +3,7 @@
 Este é um jogo de um avião.
 O avião tem apenas o movimento de subir.
 Para o avião chegar no disco ele tem que fazer movimentos, se ele chegar no limite superior, ele é levado para o limite inferior.
+https://github.com/qxcodefup/arcade/blob/master/base/game10/Readme.md
 
 ---
 
