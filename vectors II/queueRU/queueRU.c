@@ -1,7 +1,5 @@
 #include <stdio.h>
 
-// https://github.com/qxcodefup/arcade/blob/master/base/fila/Readme.md
-
 int main() {
     int peoples, type[50];
 
